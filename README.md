@@ -1,2 +1,2 @@
 # Aprendendo-Django
-Repositório usado para aprender o framework california girls
+Repositório usado para aprender o framework Django
